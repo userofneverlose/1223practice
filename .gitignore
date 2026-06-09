@@ -1,0 +1,22 @@
+# Виртуальное окружение
+venv/
+env/
+ENV/
+# Файлы Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# Базы данных
+*.db
+*.sqlite
+*.sqlite3
+# Переменные окружения
+.env
+.env.local
+# VS Code
+.vscode/
+*.code-workspace
+# Файлы отчётов и временные
+*.log
+.DS_Store
